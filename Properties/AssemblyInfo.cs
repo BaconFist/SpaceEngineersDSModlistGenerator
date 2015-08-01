@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SpaceEngineersDSModlistGenerator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Thomas Klose <thomas@bratler.net>")]
 [assembly: AssemblyProduct("SpaceEngineersDSModlistGenerator")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©  2015 Thomas Klose")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

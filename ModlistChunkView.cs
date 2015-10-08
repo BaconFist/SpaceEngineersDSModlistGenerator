@@ -16,7 +16,7 @@ namespace SpaceEngineersDSModlistGenerator
             {
                 content.AppendLine("[i]Aktualisiert am "+ DateTime.Now.ToShortDateString() + "[/i]");
             }
-            content.AppendLine("[h1]Modliste " + currentChunkId.ToString() + "/" + chunkMax.ToString() + "[/h1]");
+            content.AppendLine("[h1]Modliste " + (currentChunkId + 1 ).ToString() + "/" + chunkMax.ToString() + "[/h1]");
 
             content.AppendLine("[list]");
             for(int i = 0; i < modChunk.Count; i++)
